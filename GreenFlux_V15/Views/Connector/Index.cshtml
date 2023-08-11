@@ -1,0 +1,44 @@
+﻿@page
+@model IEnumerable<GreenFlux_V15.Models.Connector>
+
+<h2>Connectors</h2>
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ChargeStationId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Identifier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaxCurrentInAmps)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChargeStationId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Identifier)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaxCurrentInAmps)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

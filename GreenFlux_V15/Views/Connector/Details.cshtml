@@ -1,0 +1,35 @@
+﻿@page
+@model GreenFlux_V15.Models.Connector
+
+<h2>Details</h2>
+
+<div>
+    <h4>Connector</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ChargeStationId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ChargeStationId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Identifier)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Identifier)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MaxCurrentInAmps)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaxCurrentInAmps)
+        </dd>
+    </dl>
+</div>
+<div>
+    <p>
+        <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </p>
+</div>

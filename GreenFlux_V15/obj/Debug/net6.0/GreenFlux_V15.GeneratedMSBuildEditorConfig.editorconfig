@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GreenFlux_V15
+build_property.RootNamespace = GreenFlux_V15
+build_property.ProjectDir = C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/ChargeStation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmdlU3RhdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/ChargeStation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmdlU3RhdGlvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/ChargeStation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmdlU3RhdGlvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/ChargeStation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmdlU3RhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/ChargeStation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmdlU3RhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Connector/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Connector/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Connector/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Connector/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Connector/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Group/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Group/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Group/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Group/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Group/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aljas/source/repos/GreenFlux_V15/GreenFlux_V15/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d0doyc2m91

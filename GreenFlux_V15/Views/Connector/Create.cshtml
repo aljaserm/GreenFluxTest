@@ -1,0 +1,31 @@
+﻿@page
+@model GreenFlux_V15.Models.Connector
+
+<h2>Create</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ChargeStationId" class="control-label"></label>
+                <input asp-for="ChargeStationId" class="form-control" />
+                <span asp-validation-for="ChargeStationId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Identifier" class="control-label"></label>
+                <input asp-for="Identifier" class="form-control" />
+                <span asp-validation-for="Identifier" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaxCurrentInAmps" class="control-label"></label>
+                <input asp-for="MaxCurrentInAmps" class="form-control" />
+                <span asp-validation-for="MaxCurrentInAmps" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>

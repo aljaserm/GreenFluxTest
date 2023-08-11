@@ -1,0 +1,8 @@
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.csproj.AssemblyReference.cache
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.AssemblyInfoInputs.cache
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.AssemblyInfo.cs
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.csproj.CoreCompileInputs.cache
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.RazorAssemblyInfo.cache
+C:\Users\aljas\source\repos\GreenFlux_V15\GreenFlux_V15\obj\Debug\netcoreapp3.1\GreenFlux_V15.RazorAssemblyInfo.cs

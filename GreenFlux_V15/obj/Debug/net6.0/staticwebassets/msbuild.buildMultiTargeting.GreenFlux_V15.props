@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GreenFlux_V15.props" />
+</Project>

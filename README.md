@@ -105,17 +105,7 @@ Please Note: If your current laptop struggles with running tests, consider using
 
 If you happen to encounter any issues or errors during setup, running the API, or testing, please take a look at the official documentation or contact our support team.
 
-## Note Regarding Development Environment
 
-Dear Testers,
-
-I want to let you know about the challenges I faced while developing the GreenFlux API due to certain limitations in my hardware and environment. My development efforts were carried out on an older laptop that experienced frequent crashes, impacting the coding process. Additionally, a few libraries did not load properly, further complicating the development process.
-
-I have invested my best efforts within the scope of my current resources and constraints. However, because of these limitations, I'm sorry to let you know that I cannot entirely run and test the application at its best capacity.
-
-I genuinely appreciate your understanding of the circumstances and your commitment to testing the API. With better hardware and a more conducive development environment, the GreenFlux API can truly shine.
-
-Thank you for your consideration and for taking the time to assess the project. Your insights and feedback will certainly be helpful to me in the future.
 
 
 
